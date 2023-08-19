@@ -1,6 +1,6 @@
 {
   "name": "@ivao-xr/common",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Common stuff for IVAO XR MCD Web Projects",
   "main": "src/index.ts",
   "scripts": {

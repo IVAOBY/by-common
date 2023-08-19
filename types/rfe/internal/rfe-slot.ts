@@ -6,6 +6,7 @@ export interface RfeSlot {
     ident: string
     icaoDep: Nullable<string>
     icaoArr: Nullable<string>
+    acftType: Nullable<string>
     scheduleTime: Date
     isArrival: boolean
     bookedByUserId: Nullable<number>
