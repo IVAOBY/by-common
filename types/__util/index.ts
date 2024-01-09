@@ -8,6 +8,12 @@ export interface WithTimestamps {
     updatedAt: Date
 }
 
+export interface IvaoErrors {
+    statusCode: number
+    message: string
+    error: string
+}
+
 export type ApiType<T> = {
     [k in keyof T]: (T[k] extends Date ? string : T[k])
 }
