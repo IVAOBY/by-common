@@ -1,6 +1,6 @@
 {
   "name": "@ivaoby/common",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "description": "Common stuff for IVAO BY Web Projects",
   "main": "src/index.ts",
   "scripts": {
@@ -11,10 +11,7 @@
     "type": "git",
     "url": "https://github.com/IVAOBY/by-common.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
-  "author": "IVAO BY Web Department",
+  "author": "BY Web Department",
   "devDependencies": {
     "typescript": "^5.1.3"
   }
