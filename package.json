@@ -1,6 +1,6 @@
 {
   "name": "@ivaoby/common",
-  "version": "0.0.3b",
+  "version": "0.0.4",
   "description": "Common stuff for IVAO BY Web Projects",
   "main": "src/index.ts",
   "scripts": {
