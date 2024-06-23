@@ -1,4 +1,4 @@
-import {IvaoErrors, Nullable} from "../../__util";
+import {Nullable} from "../../__util";
 
 export interface IvaoMetar {
     airportIcao: string
